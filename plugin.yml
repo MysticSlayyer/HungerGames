@@ -1,7 +1,7 @@
 name: HungerGames
 main: HungerGames\HungerGames
 version: 0.0.1
-api: [1.0.0, 1.1.0]
+api: [1.0.0, 1.1.0 3.0.0-ALPHA5]
 description: HungerGames Plugin
 permissions:
   hungergames.newarena:
